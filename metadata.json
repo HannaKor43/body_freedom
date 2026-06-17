@@ -1,0 +1,6 @@
+{
+  "name": "Стройность по характеру 2.0",
+  "description": "Онлайн-курс для запуска естественного снижения веса через работу с типами характера и психосоматикой переедания.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
